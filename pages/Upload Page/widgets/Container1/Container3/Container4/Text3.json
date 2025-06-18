@@ -17,7 +17,7 @@
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
-  "fontStyle": "BOLD",
+  "fontStyle": "ITALIC",
   "isLoading": false,
   "isVisible": true,
   "key": "90s6d0e0on",
