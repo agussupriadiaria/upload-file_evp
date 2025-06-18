@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderOpacity": 100,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderWidth": 1,
+  "bottomRow": 34,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "ktxo33k41g",
+  "leftColumn": 5,
+  "mobileBottomRow": 34,
+  "mobileLeftColumn": 5,
+  "mobileRightColumn": 29,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 7.28125,
+  "parentId": "5cav59g5du",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 29,
+  "source": "https://upload-file-compress-bg3unt92e-agussupriadiarias-projects.vercel.app/",
+  "srcDoc": "",
+  "topRow": 2,
+  "type": "IFRAME_WIDGET",
+  "version": 1,
+  "widgetId": "vxa1mf8voe",
+  "widgetName": "Iframe1"
+}
